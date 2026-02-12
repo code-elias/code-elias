@@ -11,7 +11,7 @@
 <!-- About me section -->
 ## 👋 About Me
 
-I am a passionate Full Stack Engineer with 2 years of professional experience and 4 years as a UI/UX Designer. I specialize in creating responsive, scalable, and visually appealing web applications. My expertise spans multiple technologies, and I am always keen to learn and grow in the dynamic field of web development.
+I am a passionate Full Stack Engineer with 3 years of professional experience and 4 years as a UI/UX Designer. I specialize in creating responsive, scalable, and visually appealing web applications. My expertise spans multiple technologies, and I am always keen to learn and grow in the dynamic field of web development.
 
 <!-- Skills section with icons -->
 ## 🚀 Skills
